@@ -23,7 +23,7 @@ Vascular Endothelial Growth Factor Receptor 2 (VEGFR2) is a primary regulator of
 * **Initial Ligand Library:** Sourced 23 cancer-associated phytochemicals from literature in `.sdf` format.
 
 ### 2. Virtual Screening via SQL (Lipinski's Rule of 5)
-* Imported the molecular descriptors of all 23 phytochemicals into a **SQLite** database.
+* Imported the molecular descriptors of all 25 phytochemicals into a **SQLite** database.
 * Executed SQLite to filter compounds based on Lipinski's criteria (Molecular Weight ≤ 500, LogP ≤ 5, H-bond Donors ≤ 5, H-bond Acceptors ≤ 10).
 * **Result:** Successfully screened the dataset down to **13 drug-like phytochemicals**, which were then converted to `.pdb` format and prepared using PyMOL.
 
@@ -52,13 +52,13 @@ ORDER BY binding_affinity ASC;
 
 ## 📂 Repository Structure
 ├── data/
-│   ├── raw_phytochemicals.csv       # Original list of 23 compounds & descriptors
-│   └── lipinski_filter.sql          # SQL script used for Lipinski screening in SQL Workbench
+│   ├── raw_phytochemicals.csv       # Original list of 25 compounds & descriptors
+│   └── filtered_ligands.csv          #list of the filtered top 13 ligands
 ├── docking/
-│   ├── pyrx_outputs/                # Raw docking log files
+│   ├── docking_results/                # Raw docking log files
 │   └── docking_analysis.sql         # SQL queries used to extract best poses (RMSD=0) for the 13 ligands
 ├── adme/
-│   └── adme_results.csv             # Pharmacokinetics data for the selected top 5 compounds
+│   └── swissadme_results.csv             # Pharmacokinetics data for the selected top 5 compounds
 ├── dashboard/
 │   └── VEGFR2_Docking_Analytics.pbix # Interactive Power BI Dashboard file
 └── README.md
