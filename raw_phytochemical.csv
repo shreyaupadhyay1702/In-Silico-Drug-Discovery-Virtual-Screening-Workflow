@@ -1,0 +1,26 @@
+﻿Compound_Name ,Pubchem_CID,Smiles ,Mol_weight (dalton),molecular formula,H_Bond_Donors,H_Bond_Acceptor , LogP (XLogP3-AA
+(+)-Ursolic Acid,64945,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O,456.7 g/mol,C30H48O3,2,3,7.3
+squalene,638072,CC(=CCC/C(=C/CC/C(=C/CC/C=C(/CC/C=C(/CCC=C(C)C)\C)\C)/C)/C)C,410.7 g/mol,C30H50,0,0,11.6
+turmerone ,14367555,CC1=CCC(=CC1)[C@@H](C)CC(=O)C=C(C)C,218.33 g/mol,C15H22O,0,1,3.3
+alpha.-amyrin cinnamate,5376214,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)OC(=O)/C=C/C6=CC=CC=C6)C)C)C2C1C)C)C,556.9 g/mol,C39H56O2,0,2,11.7
+beta sitosterol ,222284,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,414.7 g/mol,C29H50O,1,1,9.3
+CAMPESTEROL,173183,C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C,400.7 g/mol,C28H48O,1,1,8.8
+diosmetin ,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26 g/mol,C16H12O6,3,6,1.7
+quercetagetin ,5281680,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C(=C3O)O)O)O)O)O,318.23 g/mol,C15H10O8,6,8,1.2
+luteolin,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24 g/mol,C15H10O6,4,6,1.4
+Epigallocatechin,72277,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,306.27 g/mol,C15H14O7,6,7,0
+Decursin,442126,CC(=CC(=O)O[C@H]1CC2=C(C=C3C(=C2)C=CC(=O)O3)OC1(C)C)C,328.4 g/mol,C19H20O5,0,5,3.9
+isoliquiritigenin,638278,C1=CC(=CC=C1/C=C/C(=O)C2=C(C=C(C=C2)O)O)O,256.25 g/mol,C15H12O4,3,4,3.2
+Di(2-ethylhexyl) phthalate,8343,CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,390.6 g/mol,C24H38O4,0,4,7.4
+gallic acid ,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12 g/mol,C7H6O5,4,5,0.7
+axitinib ,6450551,CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)/C=C/C4=CC=CC=N4,386.5 g/mol,C22H18N4OS,2,4,4.2
+apigenin,5280443,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,270.24 g/mol,C15H10O5,3,5,1.7
+quercetin,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.23 g/mol,C15H10O7,5,7,1.5
+myricetin ,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.23 g/mol,C15H10O8,6,8,1.2
+rosmarinic acid,5281792,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.3 g/mol,C18H16O8,5,8,2.4
+(-)-Epicatechin,72276,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,290.27 g/mol,C15H14O6,5,6,0.4
+Sunitinib,5329102,CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)F)NC2=O)C,398.5 g/mol,C22H27FN4O2,3,4,2.6
+oleic acid,445639,CCCCCCCC/C=C\CCCCCCCC(=O)O,282.5 g/mol,C18H34O2,1,2,6.5
+reserpine,5770,CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC,608.7 g/mol,C33H40N2O9,1,10,4
+Tanshinone,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.3 g/mol,C18H12O3,0,3,3.7
+.beta.-Amyrin cinnamate,5376213,CC1(CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)OC(=O)/C=C/C6=CC=CC=C6)C)C)C2C1)C)C)C,556.9 g/mol,,0,2,11.8

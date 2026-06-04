@@ -1,0 +1,6 @@
+Molecule,Canonical SMILES,Formula,MW,Consensus Log P,GI absorption,BBB permeant,Lipinski #violations,Bioavailability Score
+leuteolin ,Oc1cc(O)c2c(c1)oc(cc2=O)c1ccc(c(c1)O)O,C15H10O6,286.24,1.73,High,No,0,0.55
+isoliquiritigenin,Oc1ccc(cc1)/C=C/C(=O)c1ccc(cc1O)O,C15H12O4,256.25,2.37,High,Yes,0,0.55
+axitinib,CNC(=O)c1ccccc1Sc1ccc2c(c1)[nH]nc2/C=C/c1ccccn1,C22H18N4OS,386.47,3.82,High,No,0,0.55
+quercetin,Oc1cc(O)c2c(c1)oc(c(c2=O)O)c1ccc(c(c1)O)O,C15H10O7,302.24,1.23,High,No,0,0.55
+turmerone,CC(=CC(=O)C[C@@H](C1=CCC(=CC1)C)C)C,C15H22O,218.33,3.63,High,Yes,0,0.55

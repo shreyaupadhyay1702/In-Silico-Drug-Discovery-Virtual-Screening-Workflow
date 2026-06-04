@@ -1,0 +1,15 @@
+Ligand,BINDING_AFFINITY,RMSD_LOWER_BOUND,RMSD_UPPER_BOUND,COMPOUND_TYPE 
+sorafenib ,-10.7,0,0,CONTROL 
+apigenin,-10.3,0,0,PHYTOCHEMICAL 
+luteolin,-10.3,0,0,PHYTOCHEMICAL 
+quercetin,-9.7,0,0,PHYTOCHEMICAL 
+axitinib,-9.6,0,0,CONTROL 
+isoliquiritigenin,-9.1,0,0,PHYTOCHEMICAL 
+turmerone,-8.7,0,0,PHYTOCHEMICAL 
+diosmetin,-8.6,0,0,PHYTOCHEMICAL 
+sunitinib,-8.3,0,0,CONTROL 
+Decursin,-8,0,0,PHYTOCHEMICAL 
+Epicatechin,-7.9,0,0,PHYTOCHEMICAL 
+Tanshinone,-7.9,0,0,PHYTOCHEMICAL 
+rosmarinic acid,-7.8,0,0,PHYTOCHEMICAL 
+gallic acid,-6.3,0,0,PHYTOCHEMICAL 
